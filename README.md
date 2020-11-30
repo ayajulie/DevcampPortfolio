@@ -22,3 +22,17 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+> This is a ruby on rails 6 application that allows users to create their own porfolio
+### Features
+	- Real time chat engine for comments
+	- Blog
+	- Portfolio
+	- Drag and drop interface
+	
+### Code example
+```ruby
+def my_great_method
+	puts here it is"
+end
+```
