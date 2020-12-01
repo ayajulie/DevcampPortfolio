@@ -29,6 +29,7 @@ Things you may want to cover:
 	- Blog
 	- Portfolio
 	- Drag and drop interface
+	- And even more
 	
 ### Code example
 ```ruby
